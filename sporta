@@ -1,0 +1,13 @@
+#git初始化
+git init
+#设置remote地址
+git remote add 地址
+#将全部文件加入git版本管理 .的意思是将当前文件夹下的全部文件放到版本管理中
+git add .
+#提交文件 使用-m 编写注释
+git commit -m "注释"
+#推送到远程分支
+git push
+————————————————
+版权声明：本文为CSDN博主「Vi_error」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/Vi_error/article/details/80608793
